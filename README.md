@@ -1,16 +1,27 @@
-## Hi there 👋
+ <br>
+  <br>
+  <table>
+    <tr>
+      <td>   
+hi
+      </td>
+    </tr>
+  </table>
+   <br>
 
-<!--
-**fIameo/fIameo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://rentry.co/edgworth"><img src="https://file.garden/aPWYj2QLMUuq5c-w/Funko_Pop_Avatar_The_Last_Airbender_Zuko_with_Lightning_Glow-removebg-preview.png" width="30%" /></a>
+<a href="https://jayne.atabook.org/"><img src="https://file.garden/aPWYj2QLMUuq5c-w/image-removebg-preview%20(1).png" width="30%" /></a>
 
-Here are some ideas to get you started:
+   <br>
+  <br>
+  <table>
+    <tr>
+      <td>   
+bye
+      </td>
+    </tr>
+  </table>
+   <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>  </summary><h3  align="center">
