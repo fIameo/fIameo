@@ -10,7 +10,7 @@ hi
    <br>
 
 <a href="https://rentry.co/edgworth"><img src="https://file.garden/aPWYj2QLMUuq5c-w/Funko_Pop_Avatar_The_Last_Airbender_Zuko_with_Lightning_Glow-removebg-preview.png" width="30%" /></a>
-<a href="https://jayne.atabook.org/"><img src="https://file.garden/aPWYj2QLMUuq5c-w/image-removebg-preview%20(1).png" width="30%" /></a>
+<a href="https://flameo.atabook.org/"><img src="https://file.garden/aPWYj2QLMUuq5c-w/image-removebg-preview%20(1).png" width="30%" /></a>
 
    <br>
   <br>
